@@ -1,0 +1,2 @@
+# htmlonly
+HTML only Website
